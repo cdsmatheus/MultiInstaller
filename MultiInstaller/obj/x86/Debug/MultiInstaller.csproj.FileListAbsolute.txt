@@ -1,0 +1,9 @@
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\bin\x86\Debug\MultiInstaller.exe
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\bin\x86\Debug\MultiInstaller.pdb
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.csprojResolveAssemblyReference.cache
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.Form1.resources
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.Properties.Resources.resources
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.csproj.GenerateResource.Cache
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.csproj.CoreCompileInputs.cache
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.exe
+C:\Users\cdsmatheus\source\repos\MultiInstaller\MultiInstaller\obj\x86\Debug\MultiInstaller.pdb
